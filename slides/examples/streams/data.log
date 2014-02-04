@@ -1,0 +1,15 @@
+{
+            "company": "peerigon",
+            "firstName": "Michael",
+            "lastName": "Jahn",
+            "street": "Haunstetter Str. 18",
+            "zip": "86151",
+            "city": "Augsburg",
+            "country": "Germany",
+            "phoneNumber": "0123/456",
+            "creator": {
+                "email": "tester@peerigon.com",
+                "password": "supersecure"
+            },
+            "plan": "beta"
+        }
